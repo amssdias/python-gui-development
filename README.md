@@ -1,3 +1,7 @@
+# Notebook with Tkinter
+
+In this repository I will explain about Tkinter and create a simple notebook where we can create and save files.
+
 # Tkinter
 
 Tkinter (tee-kay-in-ter) is a toolkit for creating graphical user interfaces with Python. It's by no means the only one available, and we also have options like Kivy or PyQt. Tkinter is, however, something of a default option for creating GUIs with Python, and actually comes with most Python installations.
