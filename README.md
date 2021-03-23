@@ -22,6 +22,13 @@ This file is just showing a basic gui Notebook using the `pack` geometry manager
 
 In this file I created a basic entry form using the `pack` and `grid` geometry manager.
 
+### dice.py
+
+This is a program that simulates rolling a six-sided dice.
+
+### temperature_converter.py
+
+A simple gui, to convert fahrenheit to celsius.
 
 #### Credits
 
